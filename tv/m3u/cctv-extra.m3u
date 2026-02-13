@@ -1,0 +1,29 @@
+#EXTM3U x-tvg-url="https://static.188766.xyz/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://iptv.gnova.me/tv/CCTV8.png" group-title="🔥[联通]央视卫视直播",CCTV-8K超高清
+http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-电视指南" tvg-logo="https://iptv.gnova.me/tv/CCTV-电视指南.png" group-title="🔥[联通]央视卫视直播",CCTV-电视指南
+http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV-第一剧场.png" group-title="🔥[联通]央视卫视直播",CCTV-第一剧场
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-风云剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV-风云剧场.png" group-title="🔥[联通]央视卫视直播",CCTV-风云剧场
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-风云音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV-风云音乐.png" group-title="🔥[联通]央视卫视直播",CCTV-风云音乐
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-风云足球" tvg-logo="https://live.fanmingming.cn/tv/CCTV-风云足球.png" group-title="🔥[联通]央视卫视直播",CCTV-风云足球
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-高尔夫网球" tvg-logo="https://live.fanmingming.cn/tv/CCTV-高尔夫网球.png" group-title="🔥[联通]央视卫视直播",CCTV-高尔夫网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-兵器科技" tvg-logo="https://live.fanmingming.cn/tv/CCTV-兵器科技.png" group-title="🔥[联通]央视卫视直播",CCTV-兵器科技
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-女性时尚" tvg-logo="https://live.fanmingming.cn/tv/CCTV-女性时尚.png" group-title="🔥[联通]央视卫视直播",CCTV-女性时尚
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-世界地理" tvg-logo="https://live.fanmingming.cn/tv/CCTV-世界地理.png" group-title="🔥[联通]央视卫视直播",CCTV-世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV-怀旧剧场.png" group-title="🔥[联通]央视卫视直播",CCTV-怀旧剧场
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="CCTV-央视台球" tvg-logo="https://live.fanmingming.cn/tv/CCTV-央视台球.png" group-title="🔥[联通]央视卫视直播",CCTV-央视台球
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="中央新影-老故事" tvg-logo="https://live.fanmingming.cn/tv/中央新影-老故事.png" group-title="🔥[联通]央视卫视直播",中央新影-老故事
+http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="中央新影-发现之旅" tvg-logo="https://live.fanmingming.cn/tv/中央新影-发现之旅.png" group-title="🔥[联通]央视卫视直播",中央新影-发现之旅
+http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
