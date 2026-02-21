@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://static.188766.xyz/all.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
-http://go.bkpcp.top/mg/jtyy
+https://iptv.gstory.cn/Cinetry/644368373
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" group-title="电影频道",CHC动作电影
-http://go.bkpcp.top/mg/dzdy
+https://iptv.gstory.cn/Cinetry/644368714
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" http-user-agent="okHttp/Mod-1.5.0.0" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/五星体育.png" group-title="其他频道",五星体育
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://other.ottiptv.cc/wxty.m3u8
